@@ -4,7 +4,8 @@ Staff-level Technical PM who still loves to build. I bridge infrastructure, secu
 
 **What I'm working on:**
 
-- **[한국어 Learn](https://learnkorean.kaliolsen.com)** — Korean flashcard app with spaced repetition, multi-round reinforcement drills, and a neumorphic SoftUI design system
+- **[한국어 Learn](https://learnkorean.kaliolsen.com)** — A mobile-friendly Korean flashcard app with personal notes, audio pronunciation, typing practice, and contextual formality — built for serious learners who need more than vocabulary lists.
+
 - **Trusted Velocity** — Compliance, security, and AI best practices resource for internal teams aiming to move faster with AI
 
 **I'm currently in a focused learning sprint (Feb - Mar 2026):**
