@@ -1,6 +1,6 @@
 # Hi, I'm Kali 👋
 
-Staff-level Technical PM who still loves to build. I bridge infrastructure, security, and product — and I'm currently deep in AI engineering, building tools that make teams faster without sacrificing stability or compliance.
+Staff-level Technical PM who loves to build. I bridge infrastructure, security, and product — and I'm currently deep in AI engineering, building tools that make teams faster without sacrificing stability or compliance.
 
 **What I'm working on:**
 
