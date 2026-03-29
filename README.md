@@ -10,7 +10,7 @@ I'm a Technical PM who loves to build. I bridge infrastructure, security, and pr
 
 **I'm currently in a focused learning sprint (Feb - Mar 2026):**
 - Vibe coding workflows (Self-guided R&D)
-- RAG, LangChain, Evals · [AI Engineering Bootcamp](https://maven.com/theaiinternship/ai-engineering-bootcamp) 
+- RAG, LangChain, Evals, Multi-Agent with ADK and A2A 
 
 
 
