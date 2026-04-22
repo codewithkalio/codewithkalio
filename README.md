@@ -1,16 +1,14 @@
 # Hi, I'm Kali 👋
 
-I'm a Technical PM who loves to build. I bridge infrastructure, security, and product — and I'm currently deep in AI engineering, building tools that make teams faster without sacrificing stability or compliance.
+I'm a full-stack builder with a software engineering foundation, a decade of product experience across a wide range of industries, and a current deep dive into AI engineering. 
 
 **What I've been building lately:**
 
-- **[한국어 Learn](https://github.com/codewithkalio/hangugeo-learn)** — A mobile-friendly Korean flashcard app with personal notes, audio pronunciation, typing practice, and contextual formality — built for serious learners who need more than vocabulary lists. **[[Live App with Demo]](https://learnkorean.kaliolsen.com)**
-- **[RAG Q&A Proof of Concept](https://github.com/codewithkalio/rag_qa_system)** - A Jupyter Notebook holding a RAG-powered Q&A system using real data, not a tutorial dataset. Real-world data is messy and unpredictable.  Retrieval failures are where the most useful learning happens. 
-- **[Multi-Agent Customer Support System with MCP and A2A](https://github.com/codewithkalio/multi-agent-cs-system)** - Building my own multi-agent system to explore the added complexity, risk and necessary guardrails that come with agent autonomy.  
+- **[한국어 Learn](https://github.com/codewithkalio/hangugeo-learn)** Production Korean flashcard app. Supabase auth, row-level security, spaced repetition algorithm, Korean TTS via Web Speech API, and PostHog observability. Built with React, TypeScript, and Tailwind.  **[[Live App with Demo]](https://learnkorean.kaliolsen.com)**
+- **[RAG Q&A Proof of Concept](https://github.com/codewithkalio/rag_qa_system)** - Retrieval-augmented Q&A system built on real-world data. EnsembleRetriever combining BM25 and vector similarity, chunk optimization, and documented retrieval failure analysis. 
+- **[Multi-Agent Customer Support System with MCP and A2A](https://github.com/codewithkalio/multi-agent-cs-system)** - Multi-agent system using Google ADK, MCP for database access, A2A for cross-service agent communication, and LangFuse for tracing and evals.  
 
-**I'm currently in a focused learning sprint (Feb - Mar 2026):**
-- Vibe coding workflows (Self-guided R&D)
-- RAG, LangChain, Evals, Multi-Agent with ADK and A2A 
+I'm looking for a product engineer role at a small, focused team where I can own problems end-to-end — and where building thoughtfully matters as much as building fast.
 
 
 
