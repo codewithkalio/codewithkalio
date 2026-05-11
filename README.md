@@ -1,6 +1,12 @@
 # Hi, I'm Kali 👋
 
-I am a Technical Product Manager with a full-stack engineering foundation and over a decade of experience leading technical delivery. My background includes 5 years of technical consulting for enterprise clients in the healthcare, energy, and restaurant sectors , followed by 4 years managing enterprise infrastructure, security compliance, and roadmap strategy at scale. In early 2026, I stepped away from the TPM track to modernize my toolkit through an intensive AI engineering sprint, ensuring I can lead AI-native products with a grounded, hands-on understanding of the modern LLM stack.
+I am a Technical Product Manager with a full-stack engineering foundation and a decade of experience leading technical delivery. My background includes:  
+
+- **Infrastructure & Security:** 4 years managing enterprise infrastructure roadmaps and security compliance at Angi, including coordinating the migration of 80+ applications to AWS.  
+
+- **Enterprise Consulting:** 5 years delivering digital transformations and technical consulting for clients in the healthcare, energy, and restaurant sectors.  
+
+- **AI Engineering Sprint:** In early 2026, I completed an intensive AI engineering sprint to gain hands-on experience with RAG systems, multi-agent workflows, and LLM evaluations to lead AI product initiatives with a grounded technical understanding.
 
 **What I've been building lately:**
 
