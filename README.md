@@ -1,6 +1,6 @@
 # Hi, I'm Kali 👋
 
-I'm an AI Product Builder with a full-stack software engineering foundation. After 5 years in tech consulting and 4 years managing enterprise tech infrastructure, I stepped away to focus entirely on rapid prototyping and shipping 0-to-1 AI products.
+I am a Technical Product Manager with a full-stack engineering foundation and over a decade of experience leading technical delivery. My background includes 5 years of technical consulting for enterprise clients in the healthcare, energy, and restaurant sectors , followed by 4 years managing enterprise infrastructure, security compliance, and roadmap strategy at scale. In early 2026, I stepped away from the TPM track to modernize my toolkit through an intensive AI engineering sprint, ensuring I can lead AI-native products with a grounded, hands-on understanding of the modern LLM stack.
 
 **What I've been building lately:**
 
@@ -8,7 +8,7 @@ I'm an AI Product Builder with a full-stack software engineering foundation. Aft
 - **[RAG Q&A Proof of Concept](https://github.com/codewithkalio/rag_qa_system)** - Retrieval-augmented Q&A system built on real-world data. EnsembleRetriever combining BM25 and vector similarity, chunk optimization, and documented retrieval failure analysis. 
 - **[Multi-Agent Customer Support System with MCP and A2A](https://github.com/codewithkalio/multi-agent-cs-system)** - Multi-agent system using Google ADK, MCP for database access, A2A for cross-service agent communication, and LangFuse for tracing and evals.  
 
-I'm looking for a product engineer or builder role on a small, focused team where I can own problems end-to-end—architecting the systems, building the prototypes, and shipping directly to customers.
+I’m looking for a Technical Product Management role on a focused team where I can own complex problems end-to-end. I focus on building thoughtfully—architecting stable systems, maintaining security posture, and making the whole team stronger as we ship impactful products to customers.
 
 
 
