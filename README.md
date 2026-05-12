@@ -1,12 +1,10 @@
 # Hi, I'm Kali 👋
 
-I am a Technical Product Manager with a full-stack engineering foundation and a decade of experience leading technical delivery. My background includes:  
+I am a Technical Program Leader with a full-stack engineering foundation and a decade of experience leading technical delivery. My background includes:
 
-- **Infrastructure & Security:** 4 years managing enterprise infrastructure roadmaps and security compliance at Angi, including coordinating the migration of 80+ applications to AWS.  
-
-- **Enterprise Consulting:** 5 years delivering digital transformations and technical consulting for clients in the healthcare, energy, and restaurant sectors.  
-
-- **AI Engineering Sprint:** In early 2026, I completed an intensive AI engineering sprint to gain hands-on experience with RAG systems, multi-agent workflows, and LLM evaluations to lead AI product initiatives with a grounded technical understanding.
+- **Infrastructure & Security:** 4 years managing enterprise infrastructure roadmaps and security compliance, including coordinating the migration of 80+ applications to AWS and driving compliance rollout across 7 departments.
+- **Enterprise Consulting:** 5 years delivering digital transformations for large-scale clients in healthcare, energy, and restaurant sectors.
+- **AI Engineering Sprint:** In early 2026, I completed an intensive AI engineering sprint to gain hands-on experience with RAG systems, multi-agent workflows, and LLM evaluations — so I can lead AI product initiatives with a grounded technical understanding.
 
 **What I've been building lately:**
 
@@ -15,8 +13,7 @@ I am a Technical Product Manager with a full-stack engineering foundation and a 
 - **[Multi-Agent Customer Support System with MCP and A2A](https://github.com/codewithkalio/multi-agent-cs-system)** - Multi-agent system using Google ADK, MCP for database access, A2A for cross-service agent communication, and LangFuse for tracing and evals.  
 
 **What's next?**
-- I’m currently looking for a Technical Product Management role.  I am the kind of individual contributor who aims to make the whole team stronger. I focus on building thoughtfully, helping departments improve their technical operations, and ensuring that security and compliance aren't afterthoughts.
-
+- I'm looking for a Director-level Technical Program or Operations role where I can use AI tooling to solve complex problems, bridge department silos, and keep velocity high without sacrificing security or stability.
 
 
 
