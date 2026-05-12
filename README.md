@@ -4,7 +4,7 @@ I am a Technical Program Leader with a full-stack engineering foundation and a d
 
 - **Infrastructure & Security:** 4 years managing enterprise infrastructure roadmaps and security compliance, including coordinating the migration of 80+ applications to AWS and driving compliance rollout across 7 departments.
 - **Enterprise Consulting:** 5 years delivering digital transformations for large-scale clients in healthcare, energy, and restaurant sectors.
-- **AI Engineering Sprint:** In early 2026, I completed an intensive AI engineering sprint to gain hands-on experience with RAG systems, multi-agent workflows, and LLM evaluations — so I can lead AI product initiatives with a grounded technical understanding.
+- **AI Engineering Sprint:** In early 2026, I completed an intensive AI engineering sprint to gain hands-on experience with RAG systems, multi-agent workflows, and LLM evaluations - so I can lead AI product initiatives with a grounded technical understanding.
 
 **What I've been building lately:**
 
