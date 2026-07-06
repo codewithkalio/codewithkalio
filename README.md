@@ -13,7 +13,7 @@ I am a Technical Program Leader with a full-stack engineering foundation and a d
 - **[Multi-Agent Customer Support System with MCP and A2A](https://github.com/codewithkalio/multi-agent-cs-system)** - Multi-agent system using Google ADK, MCP for database access, A2A for cross-service agent communication, and LangFuse for tracing and evals.  
 
 **What's next?**
-- I'm looking for a Director-level Technical Program or Operations role where I can use AI tooling to solve complex problems, bridge department silos, and keep velocity high without sacrificing security or stability.
+- I'm looking for a Staff Technical Program Manager role where I can use AI tooling to solve complex problems, bridge department silos, and keep velocity high without sacrificing security or stability.
 
 
 
